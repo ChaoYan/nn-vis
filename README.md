@@ -1,6 +1,6 @@
 # neural network visualization
 
-![](img/bm.png)
+<img src="img/bm.png" style="zoom: 33%;" />
 
 ## Text
 
