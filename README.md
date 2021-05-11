@@ -1,4 +1,4 @@
-# nueral network visualization
+# neural network visualization
 
 ![](img/bm.png)
 
