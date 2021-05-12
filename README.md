@@ -16,6 +16,8 @@ Size: 10pt
 | Rectangle         | Tensor             |
 | Rounded rectangle | Module             |
 
+note: The coner radius of rounded rectangle is 8pt. The both the width and height of cricles are 20pt.
+
 ## Arrow
 
 | Type  | Meaning         |
@@ -23,3 +25,5 @@ Size: 10pt
 | Stick | Input or output |
 | None  | Weights         |
 | ...   | ...             |
+
+note: The coner radius of arrow is 8pt. The percentage of head arrow size is 61.8%(golden ratio).
